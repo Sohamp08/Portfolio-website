@@ -1,0 +1,20 @@
+h1{
+    font-size: 40;
+    font-family: 'Uchen', serif
+}
+#body{
+    background-color:rgb(53, 96, 161);
+}
+#carousel{
+    background-color: rgb(128, 26, 48);
+}
+#carousel img{
+height: 300px;
+margin-top: 15px;
+
+}
+#carousel p{
+    font-size: 25px;
+    margin-top: 15px;
+    color: cadetblue;
+}
